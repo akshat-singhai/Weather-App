@@ -86,7 +86,7 @@ function Weather_app() {
                     </div>
                 </div>
             </div>
-
+                    <h2> CREATE by Akshat Singhai </h2>
         </div>
     )
 }
