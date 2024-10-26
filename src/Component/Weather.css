@@ -1,25 +1,28 @@
-.continer{
-            border: 1px solid black;
-            place-self: center;
-            padding: 40px;
-            border-radius: 10px;
-            background-color: #500ae4 ;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            width: 500px;
+.continer {
+    margin-top: 2.5rem;
+    border: 1px solid black;
+    place-self: center;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: #500ae4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
 }
-.input_field{
-                display: flex;
-            }
 
-.search_box{
-            display: flex;
-            align-items: center;
-            gap: 20px;
+.input_field {
+    display: flex;
 }
-.search_box{
-                
+
+.search_box {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.search_box {
+
     height: 44px;
     border: none;
     outline: none;
@@ -28,41 +31,47 @@
     color: #626262;
     background: ebfffc;
 }
+
 .input_box {
-                    height: 44px;
-                    width: 300px;
-                    border: none;
-                    outline: none;
-                    border-radius: 40px;
-                    padding-left: 25px;
-                    color: #626262;
-                    background: ebfffc;
-                    font-size: 14px;
+    height: 44px;
+    width: 300px;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    padding-left: 25px;
+    color: #626262;
+    background: ebfffc;
+    font-size: 14px;
 }
-.tem_box{
-            color: #fff;
-            font-size: 45px;
-            line-height: 1;
+
+.tem_box {
+    color: #fff;
+    font-size: 45px;
+    line-height: 1;
 }
-.location{
-            color:#fff;
-            font-size: 20px;
+
+.location {
+    color: #fff;
+    font-size: 20px;
 }
-.wind_data{
-            margin-top: 40px;
-            width: 100%;
-            color:#fff;
-            display:flex;
-            justify-content: space-between;
+
+.wind_data {
+    margin-top: 40px;
+    width: 100%;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
 }
- .col{
-                    display: flex;
-                    align-items: flex-start;
-                    gap: 12px;
-                    font-size: 20px;
-                    
+
+.col {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    font-size: 20px;
+
 }
-.wind_data .col img{
-                        width: 40px;
-                        margin-top: 10px;
+
+.wind_data .col img {
+    width: 40px;
+    margin-top: 10px;
 }
